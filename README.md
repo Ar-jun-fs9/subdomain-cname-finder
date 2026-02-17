@@ -5,7 +5,7 @@
 ![Subdomain](assets/subdomain_cname_finder.png)
 
 <a name="top"></a>
-⚠️ **Disclaimer:** Results from this scanner may include false positives or negatives. Always manually verify potential subdomain takeover findings before taking any action.
+⚠️ **Importance Notice:** Results from this scanner may include false positives or negatives. Always manually verify potential subdomain takeover findings before taking any action.
 
 A powerful Python tool for scanning subdomains to detect CNAME records and identify potential subdomain takeover vulnerabilities. This script performs DNS resolution, HTTP checks, and vulnerability detection using configurable keywords and service fingerprints.
 
